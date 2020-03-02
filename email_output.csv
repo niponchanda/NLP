@@ -1,0 +1,521 @@
+,Transaction Date,Transaction amount,Total amount,Total expenditure
+0,05-09-2015,Total Rs 66.43,66,66
+1,07-09-2015,Total Rs 113.91,113,179
+2,08-09-2015,Total Rs 106.25,106,285
+3,12-09-2015,Total Rs.60         ,60,345
+4,16-09-2015,Total Rs.20         Amount,20,365
+5,20-09-2015,Total Rs.60         ,60,425
+6,20-09-2015,Total Rs.10         Amount,10,435
+7,24-09-2015,Total Rs.60         ,60,495
+8,26-09-2015,Total Rs.10         Amount,10,505
+9,27-09-2015,Total Rs.24         Amount,24,529
+10,03-10-2015,Total Rs.123         ,123,652
+11,04-10-2015,Total Rs.60         ,60,712
+12,08-10-2015,Total Rs.17         ,17,729
+13,25-10-2015,Total Rs.60         ,60,789
+14,29-10-2015,Total Rs.123         ,123,912
+15,10-11-2015,Total Rs.60         ,60,972
+16,11-11-2015,Total Rs.50,50,1022
+17,11-11-2015,Total Rs.198         Amount,198,1220
+18,25-11-2015,Total Rs.20         Amount,20,1240
+19,08-12-2015,Total Rs.60         ,60,1300
+20,17-12-2015,Total Rs.17         ,17,1317
+21,04-01-2016,Total Rs.177,177,1494
+22,18-01-2016,Total Rs.60         ,60,1554
+23,29-01-2016,Total Rs.89         Amount,89,1643
+24,29-01-2016,Total Rs.60         ,60,1703
+25,01-02-2016,Total Rs.17         ,17,1720
+26,07-02-2016,Total Rs .25,25,1745
+27,07-02-2016,Total Rs .25,25,1770
+28,09-02-2016,Total Rs .40,40,1810
+29,13-03-2016,Total Rs .89,89,1899
+30,24-04-2016,Total Rs .20,20,1919
+31,01-06-2016,Total Rs .20,20,1939
+32,02-06-2016,Total Rs .100,100,2039
+33,23-06-2016,Total Rs .50,50,2089
+34,03-07-2016,Total Rs .50,50,2139
+35,03-07-2016,Total Rs .130,130,2269
+36,21-09-2017,Total Rs .130,130,2399
+37,30-11-2017,Total Rs .30,30,2429
+38,02-12-2017,received Rs 70,-70,2359
+39,03-12-2017,received Rs 100,-100,2259
+40,05-12-2017,received Rs 100,-100,2159
+41,10-12-2017,Rs  308.99,308,2467
+42,30-12-2017,received Rs 50,-50,2417
+43,21-01-2018,Rs  30 Recharge,30,2447
+44,10-02-2018,Rs.30.00 has been debited,30,2477
+45,08-04-2018,Rs.500.00 has been debited,500,2977
+46,08-04-2018,payment of Rs.500.00,500,3477
+47,08-04-2018,Rs.460.00 has been debited,460,3937
+48,08-04-2018,Rs.187.00 has been debited,187,4124
+49,08-04-2018,Rs.5.00 has been debited,5,4129
+50,08-04-2018,Rs.17.00 has been debited,17,4146
+51,24-05-2018,Rs.50.00 has been debited,50,4196
+52,26-05-2018,Rs.40.00 has been debited,40,4236
+53,31-05-2018,Rs.30.00 has been debited,30,4266
+54,01-06-2018,received Rs  100,-100,4166
+55,02-06-2018,received Rs  25,-25,4141
+56,03-06-2018,Successfully  Rs  30.00,30,4171
+57,03-06-2018,Successfully  Rs  14.00,14,4185
+58,04-06-2018,Successfully  Rs  7.00,7,4192
+59,04-06-2018,Successfully  Rs  22.00,22,4214
+60,05-06-2018,Successfully  Rs  11.00,11,4225
+61,05-06-2018,Successfully  Rs  23.00,23,4248
+62,05-06-2018,Successfully  Rs  30,30,4278
+63,06-06-2018,Successfully  Rs  11.00,11,4289
+64,06-06-2018,Successfully  Rs  29.00,29,4318
+65,07-06-2018,Successfully  Rs  400,400,4718
+66,07-06-2018,Successfully  Rs  11.00,11,4729
+67,07-06-2018,Successfully  Rs  7.00,7,4736
+68,08-06-2018,Successfully  Rs  8.00,8,4744
+69,08-06-2018,Successfully  Rs  7.00,7,4751
+70,08-06-2018,Successfully  Rs  8.00,8,4759
+71,09-06-2018,Successfully  Rs  7.00,7,4766
+72,09-06-2018,Successfully  Rs  150,150,4916
+73,10-06-2018,Successfully  Rs  8.00,8,4924
+74,10-06-2018,Successfully  Rs  8.00,8,4932
+75,11-06-2018,Successfully  Rs  7.00,7,4939
+76,11-06-2018,Successfully  Rs  7.00,7,4946
+77,12-06-2018,Successfully  Rs  7.00,7,4953
+78,12-06-2018,Successfully  Rs  150,150,5103
+79,13-06-2018,Successfully  Rs  8.00,8,5111
+80,13-06-2018,Successfully  Rs  14.00,14,5125
+81,13-06-2018,Successfully  Rs  35.00,35,5160
+82,14-06-2018,Successfully  Rs  7.00,7,5167
+83,14-06-2018,Successfully  Rs  14.00,14,5181
+84,14-06-2018,Successfully  Rs  7.00,7,5188
+85,15-06-2018,Successfully  Rs  29.00,29,5217
+86,15-06-2018,Successfully  Rs  29,29,5246
+87,16-06-2018,Successfully  Rs  7.00,7,5253
+88,16-06-2018,Successfully  Rs  42,42,5295
+89,16-06-2018,Successfully  Rs  8.00,8,5303
+90,16-06-2018,Successfully  Rs  7.00,7,5310
+91,16-06-2018,Rs.200.00 has been debited,200,5510
+92,17-06-2018,Successfully  Rs  32.00,32,5542
+93,17-06-2018,Successfully  Rs  10,10,5552
+94,17-06-2018,Successfully  Rs  120,120,5672
+95,17-06-2018,Successfully  Rs  600,600,6272
+96,18-06-2018,Successfully  Rs  26.00,26,6298
+97,18-06-2018,Successfully  Rs  10,10,6308
+98,19-06-2018,Successfully  Rs  11.00,11,6319
+99,19-06-2018,Successfully  Rs  15.00,15,6334
+100,20-06-2018,Successfully  Rs  8.00,8,6342
+101,20-06-2018,Successfully  Rs  8.00,8,6350
+102,20-06-2018,Successfully  Rs  11.00,11,6361
+103,21-06-2018,Successfully  Rs  11.00,11,6372
+104,21-06-2018,Successfully  Rs  20.00,20,6392
+105,22-06-2018,Successfully  Rs  8.00,8,6400
+106,22-06-2018,Successfully  Rs  30.00,30,6430
+107,22-06-2018,Successfully  Rs  8.00,8,6438
+108,22-06-2018,Rs.30.00 has been debited,30,6468
+109,23-06-2018,Successfully  Rs  11.00,11,6479
+110,23-06-2018,Rs.370.00 has been debited,370,6849
+111,24-06-2018,Successfully  Rs  7.00,7,6856
+112,24-06-2018,Successfully  Rs  7.00,7,6863
+113,24-06-2018,Successfully  Rs  22.00,22,6885
+114,24-06-2018,Successfully  Rs  22.00,22,6907
+115,25-06-2018,Successful                Rs  20,20,6927
+116,25-06-2018,Successfully  Rs  30.00,30,6957
+117,25-06-2018,Rs.100.00 has been debited,100,7057
+118,26-06-2018,Successfully  Rs  8.00,8,7065
+119,26-06-2018,Successfully  Rs  7.00,7,7072
+120,26-06-2018,Successfully  Rs  7.00,7,7079
+121,26-06-2018,Successfully  Rs  150,150,7229
+122,27-06-2018,Successfully  Rs  22.00,22,7251
+123,27-06-2018,Successfully  Rs  16.00,16,7267
+124,27-06-2018,Successfully  Rs  8.00,8,7275
+125,27-06-2018,Successfully  Rs  8.00,8,7283
+126,28-06-2018,Successfully  Rs  12,12,7295
+127,28-06-2018,Successfully  Rs  16.00,16,7311
+128,28-06-2018,Successfully  Rs  7.00,7,7318
+129,29-06-2018,Successfully  Rs  17.00,17,7335
+130,29-06-2018,Successfully  Rs  24.00,24,7359
+131,01-07-2018,Successfully  Rs  30.00,30,7389
+132,01-07-2018,Successfully  Rs  8.00,8,7397
+133,01-07-2018,Successfully  Rs  8.00,8,7405
+134,02-07-2018,Successfully  Rs  30.00,30,7435
+135,02-07-2018,Successfully  Rs  8.00,8,7443
+136,02-07-2018,Successfully  Rs  40,40,7483
+137,03-07-2018,Successfully  Rs  30.00,30,7513
+138,03-07-2018,Successfully  Rs  8.00,8,7521
+139,03-07-2018,Successfully  Rs  7.00,7,7528
+140,04-07-2018,Successfully  Rs  25.00,25,7553
+141,06-07-2018,Successfully  Rs  7.00,7,7560
+142,06-07-2018,Successfully  Rs  7.00,7,7567
+143,06-07-2018,Successfully  Rs  30.00,30,7597
+144,07-07-2018,Successfully  Rs  22.00,22,7619
+145,07-07-2018,Successfully  Rs  7.00,7,7626
+146,07-07-2018,Successfully  Rs  15,15,7641
+147,08-07-2018,Successfully  Rs  30.00,30,7671
+148,08-07-2018,Successfully  Rs  35.00,35,7706
+149,12-07-2018,Successfully  Rs  20.00,20,7726
+150,12-07-2018,Successfully  Rs  24.00,24,7750
+151,13-07-2018,Successfully  Rs  500,500,8250
+152,14-07-2018,Successfully  Rs  14.00,14,8264
+153,14-07-2018,Successful                Rs  149,149,8413
+154,15-07-2018,Successfully  Rs  7.00,7,8420
+155,16-07-2018,Successfully  Rs  75.00,75,8495
+156,16-07-2018,Successfully  Rs  75,75,8570
+157,16-07-2018,Successfully  Rs  30.00,30,8600
+158,17-07-2018,Successfully  Rs  7.00,7,8607
+159,18-07-2018,Successfully  Rs  20.00,20,8627
+160,19-07-2018,Successfully  Rs  20.00,20,8647
+161,20-07-2018,Successfully  Rs  30.00,30,8677
+162,24-07-2018,Successfully  Rs  7.00,7,8684
+163,25-07-2018,Rs.540.00 has been debited,540,9224
+164,26-07-2018,Successfully  Rs  7.00,7,9231
+165,26-07-2018,Successfully  Rs  500,500,9731
+166,27-07-2018,Successfully  Rs  29,29,9760
+167,27-07-2018,Successfully  Rs  35.00,35,9795
+168,29-07-2018,Successfully  Rs  26.00,26,9821
+169,29-07-2018,Successfully  Rs  30.00,30,9851
+170,30-07-2018,Successfully  Rs  50.00,50,9901
+171,30-07-2018,Successfully  Rs  40.00,40,9941
+172,01-08-2018,Successful                Rs  50,50,9991
+173,01-08-2018,Successfully  Rs  60.00,60,10051
+174,02-08-2018,Successfully  Rs  7.00,7,10058
+175,02-08-2018,Successfully  Rs  185,185,10243
+176,03-08-2018,Successfully  Rs  17.00,17,10260
+177,04-08-2018,Successfully  Rs  32.00,32,10292
+178,04-08-2018,Successfully  Rs  7.00,7,10299
+179,04-08-2018,Successfully  Rs  7.00,7,10306
+180,06-08-2018,Successfully  Rs  187,187,10493
+181,06-08-2018,Successfully  Rs  270,270,10763
+182,06-08-2018,Successfully  Rs  7.00,7,10770
+183,07-08-2018,Successfully  Rs  5.00,5,10775
+184,07-08-2018,Successfully  Rs  17.00,17,10792
+185,07-08-2018,Successfully  Rs  7.00,7,10799
+186,07-08-2018,Rs.65.00 has been debited,65,10864
+187,07-08-2018,Rs.450.00 has been debited,450,11314
+188,08-08-2018,Successfully  Rs  5.00,5,11319
+189,08-08-2018,Successfully  Rs  7.00,7,11326
+190,08-08-2018,Rs.45.00 has been debited,45,11371
+191,09-08-2018,Successfully  Rs  30.00,30,11401
+192,09-08-2018,Successfully  Rs  75,75,11476
+193,09-08-2018,Successfully  Rs  7.00,7,11483
+194,09-08-2018,Successfully  Rs  5.00,5,11488
+195,09-08-2018,Rs.27.00 has been debited,27,11515
+196,09-08-2018,Rs.500.00 has been debited,500,12015
+197,10-08-2018,Successfully  Rs  65.00,65,12080
+198,10-08-2018,Successfully  Rs  14.00,14,12094
+199,10-08-2018,Successfully  Rs  40.00,40,12134
+200,10-08-2018,Successfully  Rs  40.00,40,12174
+201,10-08-2018,Successfully  Rs  5.00,5,12179
+202,11-08-2018,Successfully  Rs  5.00,5,12184
+203,11-08-2018,Successfully  Rs  55.00,55,12239
+204,11-08-2018,Successfully  Rs  35.00,35,12274
+205,12-08-2018,Successfully  Rs  5.00,5,12279
+206,12-08-2018,Successfully  Rs  37,37,12316
+207,13-08-2018,Successfully  Rs  40.00,40,12356
+208,13-08-2018,Successfully  Rs  22.00,22,12378
+209,14-08-2018,Successfully  Rs  50.00,50,12428
+210,14-08-2018,Successfully  Rs  20.00,20,12448
+211,14-08-2018,Successfully  Rs  7.00,7,12455
+212,15-08-2018,Successfully  Rs  5.00,5,12460
+213,19-08-2018,14,14,12474
+214,19-08-2018,Successfully  Rs  5.00,5,12479
+215,20-08-2018,Rs.250.00 has been debited,250,12729
+216,20-08-2018,Rs.102.00 has been debited,102,12831
+217,21-08-2018,Rs.90.00 has been debited,90,12921
+218,21-08-2018,payment of Rs.299.00,299,13220
+219,22-08-2018,Successfully  Rs  5.00,5,13225
+220,23-08-2018,Successfully  Rs  1.00,1,13226
+221,23-08-2018,payment of Rs.122.28,122,13348
+222,24-08-2018,Successfully  Rs  200,200,13548
+223,24-08-2018,Successfully  Rs  22.00,22,13570
+224,25-08-2018,Successfully  Rs  7.00,7,13577
+225,25-08-2018,Successfully  Rs  20.00,20,13597
+226,25-08-2018,Successfully  Rs  17.00,17,13614
+227,26-08-2018,Rs.50.00 has been debited,50,13664
+228,30-08-2018,Successful                Rs  50,50,13714
+229,30-08-2018,Received  Rs  200,-200,13514
+230,03-09-2018,Successfully  Rs  7000,7000,20514
+231,03-09-2018,Received  Rs  224,-224,20290
+232,04-09-2018,Successfully  Rs  7.00,7,20297
+233,05-09-2018,Successfully  Rs  30.00,30,20327
+234,06-09-2018,Successfully  Rs  7.00,7,20334
+235,06-09-2018,Successfully  Rs  17.00,17,20351
+236,07-09-2018,Successfully  Rs  20,20,20371
+237,07-09-2018,Rs.100.00 has been debited,100,20471
+238,08-09-2018,Successfully  Rs  22.00,22,20493
+239,08-09-2018,Successfully  Rs  50.00,50,20543
+240,09-09-2018,Successfully  Rs  7.00,7,20550
+241,09-09-2018,Rs.300.00 has been debited,300,20850
+242,13-09-2018,Successfully  Rs  30.00,30,20880
+243,15-09-2018,Successfully  Rs  21.00,21,20901
+244,15-09-2018,Successfully  Rs  7.00,7,20908
+245,16-09-2018,Successfully  Rs  14,14,20922
+246,16-09-2018,Rs.200.00 has been debited,200,21122
+247,16-09-2018,"payment of Rs.7,037.00",7,21129
+248,17-09-2018,Successfully  Rs  20.00,20,21149
+249,17-09-2018,"payment of Rs.7,000.00",7,21156
+250,17-09-2018,payment of Rs.263.00,263,21419
+251,18-09-2018,Rs.270.00 has been debited,270,21689
+252,18-09-2018,Rs.126.00 has been debited,126,21815
+253,19-09-2018,Rs.35.00 has been debited,35,21850
+254,19-09-2018,Rs.50.00 has been debited,50,21900
+255,20-09-2018,Successfully  Rs  72,72,21972
+256,20-09-2018,Rs.30.00 has been debited,30,22002
+257,20-09-2018,Rs.44.00 has been debited,44,22046
+258,21-09-2018,Rs.260.00 has been debited,260,22306
+259,21-09-2018,Rs.80.00 has been debited,80,22386
+260,21-09-2018,Rs.30.00 has been debited,30,22416
+261,21-09-2018,Rs.40.00 has been debited,40,22456
+262,22-09-2018,Rs.40.00 has been debited,40,22496
+263,22-09-2018,Rs.30.00 has been debited,30,22526
+264,23-09-2018,Successfully  Rs  10.00,10,22536
+265,24-09-2018,Rs.100.00 has been debited,100,22636
+266,28-09-2018,Rs.78.00 has been debited,78,22714
+267,28-09-2018,Rs.65.00 has been debited,65,22779
+268,29-09-2018,Rs.30.00 has been debited,30,22809
+269,29-09-2018,Rs.380.00 has been debited,380,23189
+270,30-09-2018,Successfully  Rs  50,50,23239
+271,30-09-2018,Rs.501.00 has been debited,501,23740
+272,02-10-2018,Successfully  Rs  100,100,23840
+273,02-10-2018,Successful                Rs  20,20,23860
+274,06-10-2018,Rs.1530.00 has been debited,1530,25390
+275,07-10-2018,Successfully  Rs  10,10,25400
+276,09-10-2018,payment of Rs.200.00,200,25600
+277,12-10-2018,Successfully  Rs  78,78,25678
+278,05-11-2018,Successfully  Rs  6,6,25684
+279,05-11-2018,Rs.400.00 has been debited,400,26084
+280,06-11-2018,Rs.1000.00 has been debited,1000,27084
+281,08-11-2018,Rs.30.00 has been debited,30,27114
+282,08-11-2018,Rs.270.00 has been debited,270,27384
+283,08-11-2018,Rs.80.00 has been debited,80,27464
+284,09-11-2018,Rs.22.00 has been debited,22,27486
+285,13-11-2018,Successful                Rs  20,20,27506
+286,30-11-2018,Total Rs 99,99,27605
+287,02-12-2018,Total Rs 188,188,27793
+288,05-12-2018,Rs.100.00 has been debited,100,27893
+289,07-12-2018,Rs.8.00 has been debited,8,27901
+290,07-12-2018,Rs.30.00 has been debited,30,27931
+291,09-12-2018,"payment of Rs.5,420.99",5,27936
+292,15-12-2018,Total Rs 188,188,28124
+293,22-12-2018,Total Rs 188,188,28312
+294,28-12-2018,Refund Rs 197.40,-197,28115
+295,31-12-2018,Total Rs 0,0,28115
+296,07-01-2019,Rs.85.00 has been debited,85,28200
+297,13-01-2019,Total Rs 207.40,207,28407
+298,18-01-2019,Total Rs 99,99,28506
+299,25-01-2019,Total Rs 140,140,28646
+300,26-01-2019,Total Rs 104,104,28750
+301,27-01-2019,Total Rs 104,104,28854
+302,01-02-2019,Total Rs 104,104,28958
+303,02-02-2019,Successfully  Rs  1.00,1,28959
+304,02-02-2019,Received  Rs  200,-200,28759
+305,02-02-2019,Successfully  Rs  50,50,28809
+306,07-02-2019,Rs.35.00 has been debited,35,28844
+307,10-02-2019,Total Rs 84,84,28928
+308,06-03-2019,Rs.10.00 has been debited,10,28938
+309,25-03-2019,Successfully  Rs  50,50,28988
+310,06-04-2019,Rs.175.00 has been debited,175,29163
+311,14-04-2019,Total Rs 145,145,29308
+312,22-04-2019,Total Rs 129,129,29437
+313,01-05-2019,Total Rs 95,95,29532
+314,03-05-2019,Total Rs 129.80,129,29661
+315,03-05-2019,Payment Rs 0,0,29661
+316,19-05-2019,Rs.40.00 has been debited,40,29701
+317,19-05-2019,Rs.20.00 has been debited,20,29721
+318,20-05-2019,Rs.500.00 has been debited,500,30221
+319,20-05-2019,Rs.30.00 has been debited,30,30251
+320,20-05-2019,Rs.130.00 has been debited,130,30381
+321,20-05-2019,Rs.200.00 has been debited,200,30581
+322,21-05-2019,Rs.30.00 has been debited,30,30611
+323,21-05-2019,Rs.85.00 has been debited,85,30696
+324,21-05-2019,Rs.20.00 has been debited,20,30716
+325,21-05-2019,Rs.156.00 has been debited,156,30872
+326,21-05-2019,Rs.60.00 has been debited,60,30932
+327,21-05-2019,Rs.20.00 has been debited,20,30952
+328,22-05-2019,Rs.200.00 has been debited,200,31152
+329,23-05-2019,Rs.29.00 has been debited,29,31181
+330,23-05-2019,Rs.15.00 has been debited,15,31196
+331,23-05-2019,Rs.10.00 has been debited,10,31206
+332,24-05-2019,Rs.7.00 has been debited,7,31213
+333,24-05-2019,Rs.14.00 has been debited,14,31227
+334,25-05-2019,Rs.15.00 has been debited,15,31242
+335,25-05-2019,Rs.20.00 has been debited,20,31262
+336,26-05-2019,Rs.20.00 has been debited,20,31282
+337,26-05-2019,Rs.10.00 has been debited,10,31292
+338,26-05-2019,Rs.7.00 has been debited,7,31299
+339,26-05-2019,Rs.7.00 has been debited,7,31306
+340,26-05-2019,Rs.20.00 has been debited,20,31326
+341,27-05-2019,Rs.30.00 has been debited,30,31356
+342,27-05-2019,Rs.7.00 has been debited,7,31363
+343,27-05-2019,Rs.30.00 has been debited,30,31393
+344,01-06-2019,Total Rs 105,105,31498
+345,02-06-2019,Total Rs 129.80,129,31627
+346,05-06-2019,Total Rs 85,85,31712
+347,09-06-2019,Total Rs 105,105,31817
+348,09-06-2019,Total Rs 270,270,32087
+349,15-06-2019,Rs.10.00 has been debited,10,32097
+350,18-06-2019,Rs.130.00 has been debited,130,32227
+351,18-06-2019,Rs.20.00 has been debited,20,32247
+352,18-06-2019,Rs.60.00 has been debited,60,32307
+353,19-06-2019,Rs.20.00 has been debited,20,32327
+354,19-06-2019,Rs.7.00 has been debited,7,32334
+355,20-06-2019,Rs.100.00 has been debited,100,32434
+356,20-06-2019,Rs.46.00 has been debited,46,32480
+357,21-06-2019,Rs.500.00 has been debited,500,32980
+358,21-06-2019,Rs.7.00 has been debited,7,32987
+359,21-06-2019,Rs.149.00 has been debited,149,33136
+360,21-06-2019,Rs.7.00 has been debited,7,33143
+361,21-06-2019,Rs.30.00 has been debited,30,33173
+362,23-06-2019,Rs.40.00 has been debited,40,33213
+363,23-06-2019,Rs.7.00 has been debited,7,33220
+364,23-06-2019,Rs.10.00 has been debited,10,33230
+365,23-06-2019,Rs.27.00 has been debited,27,33257
+366,23-06-2019,Rs.7.00 has been debited,7,33264
+367,24-06-2019,Rs.7.00 has been debited,7,33271
+368,24-06-2019,Rs.9.00 has been debited,9,33280
+369,24-06-2019,Rs.20.00 has been debited,20,33300
+370,25-06-2019,Rs.30.00 has been debited,30,33330
+371,26-06-2019,Rs.30.00 has been debited,30,33360
+372,26-06-2019,Rs.20.00 has been debited,20,33380
+373,27-06-2019,Rs.30.00 has been debited,30,33410
+374,28-06-2019,Rs.10.00 has been debited,10,33420
+375,07-07-2019,Rs.7.00 has been debited,7,33427
+376,23-07-2019,Rs.7.00 has been debited,7,33434
+377,23-07-2019,Rs.7.00 has been debited,7,33441
+378,23-07-2019,Rs.10.00 has been debited,10,33451
+379,24-07-2019,Rs.7.00 has been debited,7,33458
+380,24-07-2019,Rs.7.00 has been debited,7,33465
+381,25-07-2019,Rs.20.00 has been debited,20,33485
+382,25-07-2019,Rs.500.00 has been debited,500,33985
+383,25-07-2019,Rs.15.00 has been debited,15,34000
+384,26-07-2019,Rs.12.00 has been debited,12,34012
+385,26-07-2019,Rs.149.00 has been debited,149,34161
+386,27-07-2019,Rs.7.00 has been debited,7,34168
+387,27-07-2019,Rs.10.00 has been debited,10,34178
+388,27-07-2019,Rs.20.00 has been debited,20,34198
+389,27-07-2019,Rs.7.00 has been debited,7,34205
+390,28-07-2019,Rs.300.00 has been debited,300,34505
+391,15-08-2019,Successfully  Rs  175,175,34680
+392,15-08-2019,Successfully  Rs  60,60,34740
+393,15-08-2019,Successfully  Rs  15,15,34755
+394,16-08-2019,Successfully  Rs  10,10,34765
+395,18-08-2019,Outstanding Balance: Rs 270,270,35035
+396,22-08-2019,Successfully  Rs  6,6,35041
+397,23-08-2019,Total Rs 106.25,106,35147
+398,23-08-2019,Successfully  Rs  80,80,35227
+399,23-08-2019,Successfully  Rs  7,7,35234
+400,24-08-2019,Successfully  Rs  74,74,35308
+401,24-08-2019,Successfully  Rs  50,50,35358
+402,25-08-2019,Total Rs 105,105,35463
+403,26-08-2019,Total Rs 52.50,52,35515
+404,26-08-2019,Successfully  Rs  7,7,35522
+405,26-08-2019,Successfully  Rs  10,10,35532
+406,27-08-2019,Total Rs 106.25,106,35638
+407,27-08-2019,Successfully  Rs  11,11,35649
+408,28-08-2019,Total Rs 65,65,35714
+409,29-08-2019,Total Rs 75,75,35789
+410,29-08-2019,Successfully  Rs  29,29,35818
+411,31-08-2019,Total Rs 65,65,35883
+412,31-08-2019,Total Rs 85,85,35968
+413,05-09-2019,Total Rs 85,85,36053
+414,06-09-2019,Successfully  Rs  31,31,36084
+415,07-09-2019,Total Rs 57,57,36141
+416,07-09-2019,Rs.20.00 has been debited,20,36161
+417,08-09-2019,Total Rs 90,90,36251
+418,08-09-2019,Successfully  Rs  30,30,36281
+419,09-09-2019,Total Rs 60,60,36341
+420,11-09-2019,Total Rs 90,90,36431
+421,14-09-2019,Total Rs 60,60,36491
+422,14-09-2019,Total Rs 60,60,36551
+423,14-09-2019,Successfully  Rs  46,46,36597
+424,14-09-2019,Received  Rs  10,-10,36587
+425,15-09-2019,Successfully  Rs  700,700,37287
+426,15-09-2019,Successfully  Rs  350,350,37637
+427,17-09-2019,Total Rs 60,60,37697
+428,17-09-2019,Successfully  Rs  20,20,37717
+429,18-09-2019,Total Rs 50,50,37767
+430,18-09-2019,Successfully  Rs  7,7,37774
+431,19-09-2019,Total Rs 65,65,37839
+432,19-09-2019,Successfully  Rs  10,10,37849
+433,20-09-2019,Total Rs 55,55,37904
+434,20-09-2019,Successfully  Rs  10,10,37914
+435,21-09-2019,Total Rs 60,60,37974
+436,21-09-2019,Successfully  Rs  10,10,37984
+437,21-09-2019,Successfully  Rs  10,10,37994
+438,21-09-2019,Successfully  Rs  32,32,38026
+439,21-09-2019,Successfully  Rs  7,7,38033
+440,21-09-2019,Successfully  Rs  65,65,38098
+441,21-09-2019,Successfully  Rs  20,20,38118
+442,22-09-2019,Total Rs 70,70,38188
+443,22-09-2019,Total Rs 93.50,93,38281
+444,22-09-2019,Successfully  Rs  100,100,38381
+445,26-09-2019,Total Rs 80,80,38461
+446,27-09-2019,Total Rs 79,79,38540
+447,28-09-2019,Total Rs 70,70,38610
+448,29-09-2019,Total Rs 70,70,38680
+449,29-09-2019,Successfully  Rs  10,10,38690
+450,02-10-2019,Total Rs 40,40,38730
+451,03-10-2019,Successfully  Rs  20,20,38750
+452,21-10-2019,Rs.7.00 has been debited,7,38757
+453,24-10-2019,Total Rs 40,40,38797
+454,31-10-2019,Total Rs 47.50,47,38844
+455,04-11-2019,Received  Rs  10,-10,38834
+456,04-11-2019,Successfully  Rs  10,10,38844
+457,04-11-2019,Successfully  Rs  4000,4000,42844
+458,05-11-2019,Successfully  Rs  30,30,42874
+459,06-11-2019,Successfully  Rs  150,150,43024
+460,06-11-2019,Successfully  Rs  10,10,43034
+461,06-11-2019,Successfully  Rs  8,8,43042
+462,07-11-2019,Successfully  Rs  102,102,43144
+463,07-11-2019,Successfully  Rs  10,10,43154
+464,08-11-2019,Successfully  Rs  10,10,43164
+465,08-11-2019,Successfully  Rs  20,20,43184
+466,09-11-2019,Total Rs 99,99,43283
+467,09-11-2019,Total Rs 114.21,114,43397
+468,09-11-2019,Successfully  Rs  30,30,43427
+469,09-11-2019,Successfully  Rs  10,10,43437
+470,10-11-2019,Successfully  Rs  30,30,43467
+471,10-11-2019,Successfully  Rs  20,20,43487
+472,10-11-2019,Successfully  Rs  8,8,43495
+473,10-11-2019,Successfully  Rs  20,20,43515
+474,10-11-2019,Successfully  Rs  10,10,43525
+475,11-11-2019,Successfully  Rs  10,10,43535
+476,11-11-2019,Successfully  Rs  40,40,43575
+477,12-11-2019,Successfully  Rs  10,10,43585
+478,13-11-2019,Successfully  Rs  24,24,43609
+479,14-11-2019,Successfully  Rs  115,115,43724
+480,14-11-2019,Successfully  Rs  10,10,43734
+481,15-11-2019,Successfully  Rs  20,20,43754
+482,16-11-2019,Successfully  Rs  70,70,43824
+483,16-11-2019,Successfully  Rs  8,8,43832
+484,18-11-2019,Successfully  Rs  20,20,43852
+485,20-11-2019,Successfully  Rs  70,70,43922
+486,20-11-2019,Successfully  Rs  30,30,43952
+487,21-11-2019,Total Rs 90,90,44042
+488,21-11-2019,Successfully  Rs  20,20,44062
+489,21-11-2019,Successfully  Rs  50,50,44112
+490,21-11-2019,Successfully  Rs  10,10,44122
+491,22-11-2019,Total: Rs 90.75,90,44212
+492,22-11-2019,Successfully  Rs  20,20,44232
+493,23-11-2019,Successfully  Rs  40,40,44272
+494,23-11-2019,Successfully  Rs  8,8,44280
+495,23-11-2019,Successfully  Rs  45,45,44325
+496,23-11-2019,Successfully  Rs  45,45,44370
+497,24-11-2019,Total Rs 90.75,90,44460
+498,24-11-2019,Successfully  Rs  20,20,44480
+499,24-11-2019,Successfully  Rs  40,40,44520
+500,25-11-2019,Total Rs 114.45,114,44634
+501,25-11-2019,Successfully  Rs  30,30,44664
+502,25-11-2019,Successfully  Rs  20,20,44684
+503,26-11-2019,Successfully  Rs  20,20,44704
+504,27-11-2019,Total Rs 100,100,44804
+505,27-11-2019,Successfully  Rs  67,67,44871
+506,27-11-2019,Successfully  Rs  20,20,44891
+507,27-11-2019,Successfully  Rs  7,7,44898
+508,28-11-2019,Total Rs 100,100,44998
+509,29-11-2019,Successfully  Rs  10,10,45008
+510,29-11-2019,Successfully  Rs  30,30,45038
+511,29-11-2019,Successfully  Rs  500,500,45538
+512,30-11-2019,Total Rs 72,72,45610
+513,30-11-2019,Successful                Rs  99,99,45709
+514,30-11-2019,Successfully  Rs  40,40,45749
+515,01-12-2019,Successfully  Rs  40,40,45789
+516,05-12-2019,Total Rs 165,165,45954
+517,07-12-2019,Successfully  Rs  40,40,45994
+518,07-12-2019,Rs.10.00 has been debited,10,46004
+519,08-12-2019,Total Rs 100,100,46104
